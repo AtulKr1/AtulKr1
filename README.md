@@ -9,7 +9,7 @@
 
 - 📫 Reach me **atulkumar3002@gmail.com**
 
-- ⚡ Oneday I will make it happen 
+- ⚡ Dedicated to building scalable, enterprise-level applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
@@ -27,4 +27,5 @@
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulKr1&theme=radical" alt="Atul pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AtulKr1&count_private=true&theme=radical"/></p>
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
+
 
