@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkr-exe&label=Profile%20views&color=0e75b6&style=flat" alt="atulkr-exe" /> </p>-->
 
-- 🌱 I’m currently Learning **AI**
+- 🚀 I'm currently mastering Java Full Stack Development (Angular/Spring Boot)
 
 - 📫 Reach me **atulkumar3002@gmail.com**
 
@@ -27,3 +27,4 @@
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulKr1&theme=radical" alt="Atul pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AtulKr1&count_private=true&theme=radical"/></p>
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
+
