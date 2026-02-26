@@ -112,48 +112,6 @@ public class Developer {
 
 ---
 
-## 💻 Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> 📌 **Setup WakaTime:** Install [WakaTime](https://wakatime.com/) and add the [waka-readme workflow](https://github.com/athul/waka-readme) to automatically update your coding stats!
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtulKr1)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-  
-</div>
-
----
-
-## 🎯 Current Projects
-
-- 🔨 Building a **Microservices Architecture** with Spring Boot and Docker
-- 🌟 Contributing to **Open Source** Java projects
-- 📝 Writing technical blogs about **Spring Boot Best Practices**
-- 🧪 Experimenting with **Spring Cloud** and distributed systems
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 📌 **Setup Blog Posts:** Add [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) to automatically fetch your latest blog posts from Medium, Dev.to, or your personal blog!
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
