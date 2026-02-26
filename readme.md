@@ -58,29 +58,11 @@ public class Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtulKr1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKr1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9)
-  
-</div>
+## 📊 Hub Stats
 
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtulKr1&theme=tokyonight&hide_border=true&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AtulKr1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
   
 </div>
 
