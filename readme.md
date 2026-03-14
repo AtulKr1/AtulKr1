@@ -102,16 +102,8 @@ public class Developer {
   
 </div>
 
-> 📌 **Setup Snake:** Add [snk workflow](https://github.com/Platane/snk) to generate the contribution snake animation!
-
 ---
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> 📌 **Setup Activity:** Add [recent-activity workflow](https://github.com/jamesgeorge007/github-activity-readme) to show your recent GitHub activity!
 
 
 ## 💡 Random Dev Quote
