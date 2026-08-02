@@ -78,22 +78,6 @@ public class Developer {
 
 ---
 
-## 📊 Detailed Stats
-
-<div align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtulKr1&theme=tokyonight)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtulKr1&theme=tokyonight)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtulKr1&theme=tokyonight)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtulKr1&theme=tokyonight)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtulKr1&theme=tokyonight)
-  
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -104,23 +88,11 @@ public class Developer {
 
 ---
 
-
-
 ## 💡 Random Dev Quote
 
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-## 📊 Profile Views
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AtulKr1&color=A9FEF7&style=for-the-badge)
   
 </div>
 
